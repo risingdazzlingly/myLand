@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>myLand</title>
+    <link>http://localhost:1313/myLand/</link>
+    <description>Recent content on myLand</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/myLand/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇</title>
+      <link>http://localhost:1313/myLand/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/myLand/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
+      <description>&lt;p&gt;今天用Claude开始随便简单地搭起了自己的博客，感觉还不错。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
