@@ -1,0 +1,9 @@
+baseURL = 'https://risingdazzlingly.github.io/myLand/'
+languageCode = 'zh-cn'
+title = 'myLand'
+theme = 'PaperMod'
+
+[params]
+  description = '随便写写'
+  ShowReadingTime = true
+  ShowPostNavLinks = true
